@@ -2,3 +2,9 @@
 *{
     font-family: 'Gabarito', sans-serif;
 }
+
+body, html {
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite; 
+}
